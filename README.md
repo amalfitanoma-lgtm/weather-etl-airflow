@@ -48,9 +48,10 @@ mkdir plugins
 docker compose up -d
 
 ### 5. Apri Airflow
+
 Vai su http://localhost:8080
 
-Login: admin / admin
+Login con le credenziali configurate nel tuo ambiente.
 
 ### 6. Attiva il DAG
 - Cerca weather_etl nella lista
